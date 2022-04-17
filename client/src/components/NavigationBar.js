@@ -4,7 +4,9 @@ const NavigationBar = () => {
   return (
     <AppBar position="static">
       <Toolbar>
-        <Typography variant="h5">The Doctor For You</Typography>
+        <Typography variant="h5">
+          The Doctor For You - Contact To Join The Family!
+        </Typography>
       </Toolbar>
     </AppBar>
   );
